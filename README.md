@@ -1,0 +1,1 @@
+This shred represents the User Registration feature of a Spring Boot application following Hexagonal Architecture. It includes a UserEntity with related value objects, application services for user registration, ports for inbound and outbound communication, and adapters for interacting with a Postgr
